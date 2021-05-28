@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+body{
+
+
+}
+
+header{
+	display: flex;
+	background-color: 	#87CEFA;
+}
+
+
+
+main{
+	background-color: 	#D3D3D3;
+
+}
+
+footer{
+	display: flex;
+	background-color: 	#87CEFA;
+}
